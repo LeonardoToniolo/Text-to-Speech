@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/assets/cover.svg" >
+  <img src=".github/assets/text-to-speech.png" >
 </div>
 
 <h3 align="center">
